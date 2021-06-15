@@ -1,0 +1,9 @@
+{
+  "http":{
+    "addr":":9091",
+    "url": "https://www.rusprofile.ru"
+  },
+  "grpc":{
+    "addr":":9090"
+  }
+}
